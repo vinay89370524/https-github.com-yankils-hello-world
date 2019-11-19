@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Creating a Heloo world project on tomcat server
