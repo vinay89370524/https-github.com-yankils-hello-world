@@ -1,3 +1,3 @@
 # maven-project
 
-Creating a Heloo world project on tomcat server
+Creating a Hello world project on tomcat server
